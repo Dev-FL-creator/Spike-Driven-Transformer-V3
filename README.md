@@ -1,7 +1,7 @@
 <p align="center">
 <img src="./images/logo.jpg" alt="spikezip_logo" width="250" align="center">
 </p>
-
+SDT_V3/Detection/mmdet/models/backbones/sdeformer.py
 # Scaling Spike-driven Transformer with Efficient Spike Firing Approximation Training
 
 [Man Yao*](https://scholar.google.com/citations?user=eE4vvp0AAAAJ), [Xuerui Qiu*](https://scholar.google.com/citations?user=bMwW4e8AAAAJ&hl=zh-CN), [Tianxiang Hu](), [Jiakui Hu](https://github.com/jkhu29), [Yuhong Chou](https://scholar.google.com/citations?user=8CpWM4cAAAAJ&hl=zh-CN&oi=ao), [Keyu Tian](https://scholar.google.com/citations?user=6FdkbygAAAAJ&hl=zh-CN&oi=ao), [Jianxing Liao](), [Luziwei Leng](), [Bo Xu](), [Guoqi Li](https://scholar.google.com/citations?user=qCfE--MAAAAJ&)
